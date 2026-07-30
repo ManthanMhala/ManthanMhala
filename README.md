@@ -1,25 +1,144 @@
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E06F36&height=200&section=header&text=Manthan%20Mhala&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student&descAlignY=55&descSize=18&descColor=ffffff" />
+
+<a href="https://github.com/ManthanMhala">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E06F36&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+with+Python+%26+Django;Turning+Data+Into+Insights" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ManthanMhala&color=e06f36&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ManthanMhala?label=Followers&style=flat-square&color=e06f36" alt="Followers" />
+
+</div>
+
+<br>
+
+## 🧑‍💻 Who I Am
+
+```typescript
+const manthanMhala = {
+  title: "Data Science Student",
+  stack: {
+    languages: ["Python", "SQL", "JavaScript"],
+    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+    backend: ["Django", "FastAPI", "PostgreSQL", "REST APIs", "JWT", "OAuth"],
+    dataAndAnalytics: ["Machine Learning", "Power BI", "Excel", "Tableau"],
+    devTools: ["Git", "GitHub", "Docker", "Redis", "Anaconda", "Streamlit", "Jira", "Slack"]
+  },
+  launchedProjects: ["ToDO-Manager", "YouTube Video Manager"],
+  status: "Learning data science, one project at a time 📊",
+  openTo: ["Collaborations", "Data & ML projects", "Interesting conversations"]
+};
+```
+
+<br>
+
+## 🚀 Featured Projects
+
+### 📝 ToDO-Manager
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ManthanMhala&repo=ToDO-Manager&theme=nord&border_color=e06f36&title_color=e06f36&icon_color=e06f36" alt="ToDO-Manager pin" />
+
+A simple To-Do Manager web app for adding, deleting, and organizing tasks into "Progress" and "Done", with drag-and-drop support and LocalStorage persistence.
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS |
+| Logic | JavaScript |
+| Storage | LocalStorage |
+| Feature | Drag-and-drop task organization |
+
+🔗 [Code](https://github.com/ManthanMhala/ToDO-Manager)
+
+<br>
+
+### 🎬 YouTube Video Manager (Python CLI Project)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ManthanMhala&repo=YouTube-Video-Manager&theme=nord&border_color=e06f36&title_color=e06f36&icon_color=e06f36" alt="YouTube Video Manager pin" />
+
+A command-line application built with Python and SQLite for managing video records, demonstrating core Python programming, database operations, CRUD operations, and clean CLI design.
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Database | SQLite |
+| Interface | CLI |
+| Operations | CRUD (Create, Read, Update, Delete) |
+
+🔗 [Code](https://github.com/ManthanMhala/YouTube-Video-Manager)
+
+> ⚠️ Double-check this repo name/link — it wasn't provided, so it's inferred from the project title. Update it if your actual repo is named differently.
+
+<br>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,redis" />
+
+<img src="https://img.shields.io/badge/JWT-e06f36?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-e06f36?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-e06f36?style=for-the-badge&logoColor=white" />
+
+**Data & Analytics**
+
+<img src="https://img.shields.io/badge/Machine%20Learning-e06f36?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-e06f36?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-e06f36?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-e06f36?style=for-the-badge&logo=tableau&logoColor=white" />
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,jira,slack" />
+
+<img src="https://img.shields.io/badge/Streamlit-e06f36?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManthanMhala&show_icons=true&theme=nord&border_color=e06f36&title_color=e06f36&icon_color=e06f36&text_color=c9cccf&hide_border=false" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanMhala&layout=compact&theme=nord&border_color=e06f36&title_color=e06f36&text_color=c9cccf" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=ManthanMhala&theme=nord&border=e06f36&ring=e06f36&fire=e06f36&currStreakLabel=e06f36" alt="GitHub Streak" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManthanMhala&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanMhala&theme=react-dark&color=e06f36&line=e06f36&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e06f36?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-mhala-1bb61b276)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E06F36&height=120&section=footer" />
