@@ -3,13 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E06F36&height=200&section=header&text=Manthan%20Mhala&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student&descAlignY=55&descSize=18&descColor=ffffff" />
 
 <a href="https://github.com/ManthanMhala">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E06F36&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+with+Python+%26+Django;Turning+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E06F36&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Data+Analyst;Machine+Learning+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG" />
 </a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ManthanMhala&color=e06f36&style=flat-square&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ManthanMhala?label=Followers&style=flat-square&color=e06f36" alt="Followers" />
 
 </div>
 
@@ -106,26 +101,13 @@ A command-line application built with Python and SQLite for managing video recor
 
 <br>
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManthanMhala&show_icons=true&theme=nord&border_color=e06f36&title_color=e06f36&icon_color=e06f36&text_color=c9cccf&hide_border=false" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanMhala&layout=compact&theme=nord&border_color=e06f36&title_color=e06f36&text_color=c9cccf" alt="Top Languages" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=ManthanMhala&theme=nord&border=e06f36&ring=e06f36&fire=e06f36&currStreakLabel=e06f36" alt="GitHub Streak" />
 
 </div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ManthanMhala&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
-### 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanMhala&theme=react-dark&color=e06f36&line=e06f36&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
